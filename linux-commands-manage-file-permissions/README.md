@@ -6,7 +6,7 @@ This activity demonstrates how Linux file permissions are managed and modified u
 ---
 
 ### Scenario
-As a security professional at a large organization, I am reviewing and managing file system permissions of the research team. 
+As a security professional at a large organization, I am reviewing and managing file system permissions of the research team, through Linux Command-Line Interface (CLI) environment. 
 
 ---
 
