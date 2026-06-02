@@ -49,4 +49,4 @@ ls -l and chmod: to authorize proper permissions and verify changes. Command-lin
 ---
 
 ### Notes
-More details about lab directions and performed steps could be found in the uploaded documents.
+This activity followed directions from Manage authorization lab, available in Google Cybersecurity Professional Certificate. More details about lab directions and performed steps could be found in the uploaded documents.
