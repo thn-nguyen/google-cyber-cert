@@ -5,6 +5,12 @@ This activity shows how SQL filtering techniques were used to investigate potent
 
 ---
 
+### Scenario
+You are a security professional at a large organization. Part of your job is to investigate security issues to help keep the system secure. You recently discovered some potential security issues that involve login attempts and employee machines. Your task is to examine the organization’s data in their employees and log_in_attempts tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
+
+---
+
+
 ### Objectives
 - Identify failed login attempts after business hours.
 - Analyze login activity on specific dates related to a suspicious incident.
@@ -13,10 +19,6 @@ This activity shows how SQL filtering techniques were used to investigate potent
 
 ---
 
-### Scenario
-You are a security professional at a large organization. Part of your job is to investigate security issues to help keep the system secure. You recently discovered some potential security issues that involve login attempts and employee machines. Your task is to examine the organization’s data in their employees and log_in_attempts tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
-
----
 
 ### Steps and Purposes
 
