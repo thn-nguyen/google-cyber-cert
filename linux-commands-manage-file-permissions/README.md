@@ -33,7 +33,7 @@ The 10-character string represents file type and access permissions in Linux:
 - ls -l: display detailed file information of visible files.
 
 #### Change file permissions on a hidden file
-- .project_x.txt: hidden file (Linux hidden files start with the dot . at the beginning of the filename).
+.project_x.txt: hidden file (Linux hidden files start with the dot . at the beginning of the filename).
 
 #### Change directory permissions
 ls -l and chmod: to authorize proper permissions and verify changes. Command-line features were already described on above steps.
