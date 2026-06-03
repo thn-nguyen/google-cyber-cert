@@ -11,7 +11,7 @@ As a security professional at a large organization, I am reviewing and managing 
 ---
 
 ### Goal
-Identify if current access levels were appropriate, and modify permissions by removing unauthorized access or granting proper authorization for members in the research team if necessary.
+Identify if current access levels were appropriate, and modify permissions by removing unauthorized access or granting proper authorization for members in the research team.
 
 ---
 
